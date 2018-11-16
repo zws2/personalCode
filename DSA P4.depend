@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1542344660 source:c:\users\dalla\documents\code\dsa p4\main.c
+	"MonteChips.h"
+	"MonteTokenizer.h"
+	"time.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<unistd.h>
+	<limits.h>
+
+1542343195 source:c:\users\dalla\documents\code\dsa p4\montechips.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<unistd.h>
+	<limits.h>
+	"MonteChips.h"
+
+1542339027 c:\users\dalla\documents\code\dsa p4\montechips.h
+
+1542344203 source:c:\users\dalla\documents\code\dsa p4\montetokenizer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	"MonteTokenizer.h"
+
+1542342603 c:\users\dalla\documents\code\dsa p4\montetokenizer.h
+
