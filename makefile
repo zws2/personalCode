@@ -1,13 +1,13 @@
 # All the targets
-all: monte
+all: lcs
 
 # Dependencies and rule to make queue
-monte: main.o
-	gcc -o monte main.o -lm
+lcs: main.o
+	gcc -o lcs main.o
 
 # Dependencies and rule to make main.o
 main.o: main.c
 	gcc -c main.c
 
 clean:
-	rm monte main.o
+	rm lcs main.o
