@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1547592070 source:c:\users\dalla\documents\code\dsa2\project 1\dictionary.c
+	"main.h"
+
+1547531657 c:\users\dalla\documents\code\dsa2\project 1\dictionary.h
+
+1547592070 source:c:\users\dalla\documents\code\dsa2\project 1\encryption.c
+	"main.h"
+
+1547281005 c:\users\dalla\documents\code\dsa2\project 1\encryption.h
+
+1547592070 source:c:\users\dalla\documents\code\dsa2\project 1\file.c
+	"main.h"
+
+1547592206 c:\users\dalla\documents\code\dsa2\project 1\file.h
+	"dictionary.h"
+
+1547592070 source:c:\users\dalla\documents\code\dsa2\project 1\main.c
+	"main.h"
+
+1547592070 c:\users\dalla\documents\code\dsa2\project 1\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"file.h"
+	"encryption.h"
+	"dictionary.h"
+
